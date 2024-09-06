@@ -1,7 +1,7 @@
 # breakout-game
 
 Demo: https://denisagardus.github.io/breakout-game/
-<hr>
+#
 
 ## Description
 Breakout Game is an engaging and entertaining arcade-style game where players control a paddle to bounce a ball and break blocks. The objective is to clear all the blocks on the board while preventing the ball from falling off the screen. The game features a scoring system and tracks the highest score.
