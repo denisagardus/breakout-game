@@ -9,4 +9,5 @@ Breakout Game is an engaging and entertaining arcade-style game where players co
 - **High Score Tracking**: The game saves the highest score in local storage.
 
 ## Screenshot
-![Gameplay Screenshot](C:\Users\maria\Downloads\breakout.png)
+
+![Gameplay_photo](https://github.com/user-attachments/assets/45fe7722-34f9-467c-8245-78cef5b58004)
