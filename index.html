@@ -1,0 +1,36 @@
+<!-- 
+ Breakout Game 
+ This code implements a simple Breakout game where the player controls a paddle 
+ to bounce a ball and break blocks. The game keeps track of the current score and the high score.
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Breakout Game</title>
+        <link rel="stylesheet" href="breakout.css">
+      
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    </head>
+
+    <body>
+        <header>
+            <h1>Breakout Game</h1>
+            <div id="scoreboard">
+                <p id="highscore">High Score: 0</p>
+            </div>
+        </header>
+        
+        <main>
+            <canvas id="board"></canvas>
+        </main>
+
+        <footer>
+            <p>Use the <strong>Left</strong> and <strong>Right</strong> arrow keys to control the paddle. Press <strong>Space</strong> to restart the game!</p>
+        </footer>
+
+        <script src="breakout.js"></script>    
+    </body>
+</html>
